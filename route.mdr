@@ -1,4 +1,4 @@
-:::tracker{species="Sobble" baseStats="[[50, 40, 40, 70, 40, 70], [65, 60, 55, 95, 55, 90], [70, 85, 65, 125, 65, 120]]"}
+:::tracker{species="Sobble" baseStats="[50, 40, 40, 70, 40, 70]"}
 5: 
    6 -> 0, 0, 1, 0, 0, 0 # Wooloo (1 DEF)
    7 -> 0, 0, 1, 0, 0, 1 # Scorbunny (1 SPEED)
