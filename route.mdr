@@ -199,7 +199,7 @@ Follow the rails until reaching the bridge.
   :::::
 :::::::
 
-Exit the Mine and head into Turffield. # optional rare candy here if struggling to work out how to get past a fight later on.
+Exit the Mine and head into Turffield.
 
 Follow the cutscenes through to Sonia, then fly back to Turffield Pokemon Center and head to the Gym.
 
@@ -219,7 +219,7 @@ Follow the cutscenes through to Sonia, then fly back to Turffield Pokemon Center
 :::::::
 
 :info[**Free Heal**]{color=pink}
-- Fly to the Center. (Mash A)
+- Fly to the Center.
 - Head east.
 
 :::::::trainer[Team Yell Grunt]
@@ -252,6 +252,6 @@ Follow the cutscenes through to Sonia, then fly back to Turffield Pokemon Center
 :info[**Free Heal**]{color=pink}
 - Head to the lighthouse and talk to Nessa, then head to the Gym
 - Nessa Gym Puzzle
-     - :info[**Red**]{color=red} > :info[**Yellow**]{color=yellow} > :info[**Red**]{color=red}
-     - :info[**Yellow**]{color=yellow} > :info[**Red**]{color=red}
-     - :info[**Yellow**]{color=yellow} > :info[**Red**]{color=red} > :info[**Blue**]{color=blue}
+     - :info[**Red**]{color=red}>**Yellow**>:info[**Red**]{color=red}
+     - **Yellow**>:info[**Red**]{color=red}
+     - **Yellow**>:info[**Red**]{color=red}>:info[**Blue**]{color=blue}
