@@ -149,7 +149,7 @@ When entering the wild area, look out for dens containing raids.
 - Reteach:
     - X (Slot x)
     
-:::::::trainer[Pokemon Trainer Hop]
+:::::::trainer[Hop 3]
   :::::pokemon[Wooloo]
     - x
   :::::
@@ -165,5 +165,93 @@ When entering the wild area, look out for dens containing raids.
 
 Run Left, dodging all trainers (run past the girl when she faces down), talk to Sonia then fight the schoolkid.
 
-[![Image from Gyazo](https://i.gyazo.com/3ba98e5d0806df38f35b39ccc2e01277.gif)](https://gyazo.com/3ba98e5d0806df38f35b39ccc2e01277)
+:::::::trainer[Schoolboy Peter]
+  :::::pokemon[Sizzlipede]
+    - X
+  :::::
+  :::::pokemon[Dottler]
+    - X
+  :::::
+:::::::
 
+Pick up the **2 hidden X-Def** to the right of the Mine entrance.
+
+Follow the rails until reaching the bridge.
+
+:::::::trainer[Worker Sandra]
+  :::::pokemon[Diglett]
+    - X
+  :::::
+  :::::pokemon[Drilbur]
+    - X
+  :::::
+:::::::
+
+:::::::trainer[Bede 1]
+  :::::pokemon[Solosis]
+    - X
+  :::::
+  :::::pokemon[Gothita]
+    - X
+  :::::
+  :::::pokemon[Hatenna]
+    - X
+  :::::
+:::::::
+
+Exit the Mine and head into Turffield. # optional rare candy here if struggling to work out how to get past a fight later on.
+
+Follow the cutscenes through to Sonia, then fly back to Turffield Pokemon Center and head to the Gym.
+
+:::::::trainer[Gym Trainer Samuel]
+  :::::pokemon[Gossifleur]
+    - X
+  :::::
+:::::::
+
+:::::::trainer[Gym Leader Milo]
+  :::::pokemon[Gossifleur]
+    - X
+  :::::
+  :::::pokemon[Eldegoss]
+    - X
+  :::::
+:::::::
+
+:info[**Free Heal**]{color=pink}
+- Fly to the Center. (Mash A)
+- Head east.
+
+:::::::trainer[Team Yell Grunt]
+  :::::pokemon[Zigzagoon]
+    - X
+  :::::
+  :::::pokemon[Thievul]
+    - X
+  :::::
+:::::::
+
+:::::::trainer[Team Yell Grunt]
+  :::::pokemon[Sableye]
+    - X
+  :::::
+:::::::
+
+:::::::trainer[Hop 4]
+  :::::pokemon[Wooloo]
+    - X
+  :::::
+  :::::pokemon[Corvisquire]
+    - X
+  :::::
+  :::::pokemon[Raboot]
+    - X
+  :::::
+:::::::
+
+:info[**Free Heal**]{color=pink}
+- Head to the lighthouse and talk to Nessa, then head to the Gym
+- Nessa Gym Puzzle
+     - :info[**Red**]{color=red} > :info[**Yellow**]{color=yellow} > :info[**Red**]{color=red}
+     - :info[**Yellow**]{color=yellow} > :info[**Red**]{color=red}
+     - :info[**Yellow**]{color=yellow} > :info[**Red**]{color=red} > :info[**Blue**]{color=blue}
