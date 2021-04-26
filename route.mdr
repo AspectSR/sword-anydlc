@@ -1,12 +1,5 @@
 :::tracker{species="Sobble" baseStats="[50, 40, 40, 70, 40, 70]"}
 5: 
-   6 -> 0, 0, 1, 0, 0, 0 # Wooloo (1 DEF)
-   7 -> 0, 0, 1, 0, 0, 1 # Scorbunny (1 SPEED)
-   8 -> 0, 0, 2, 0, 0, 1 # Wooloo (1 DEF)
-   9 -> 1, 0, 2, 0, 2, 1 # Skwovet (1 HP) Blipbug (1 SPDEF) Nickit (1 SPDEF)
-   10 -> 1, 0, 3, 0, 2, 1 # Wooloo (1 DEF)
-   11 -> 1, 0, 4, 0, 2, 3 # Scorbunny (1 SPEED) Rookidee (1 SPEED) Onix (1 DEF)
-   12 -> 1, 0, 4, 0, 2, 3
 :::
 
 # :info[Pokemon Sword]{color=blue}
