@@ -141,7 +141,7 @@ When entering the wild area, look out for dens containing raids.
     - X X Atk
     - X X Sp Atk
 - Reteach:
-    - **X (Slot x)**
+    - X (Slot x)
     
 :::::::trainer[Pokemon Trainer Hop]
   :::::pokemon[Wooloo]
@@ -153,4 +153,4 @@ When entering the wild area, look out for dens containing raids.
   :::::pokemon[Rookidee]
     - X
   :::::
-  
+:::::::
