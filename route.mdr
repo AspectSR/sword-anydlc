@@ -30,7 +30,6 @@ Pick Sobble
   :::::
   :::::pokemon[Scorbunny]
     - Water Gun x2
-       - &#8594; Reset if less than 16 Sp.Atk at level 7 (x / 18+ / 0+)
   :::::
 :::::::
 
@@ -95,13 +94,15 @@ Walk back to Wedgehurst station and head to the Wild area
 
 When entering the wild area, look out for dens containing raids.
 
+![Wild Area Spawns](https://github.com/AspectSR/sword-anydlc/blob/6075946e0dd9d1165f7c7c1d8e03d6b5f7ed861e/assets/Wild%20Area%20Spawns.png)
+
 - If you see a raid next to the entrance to Motostoke (as above), fight Onix and Die
 - If you see a raid nearby the entrance:
-    - &#8594; Interact with that raid.
-    - &#8594; Fight Manectric and die.
+      &#8594; Interact with that raid.
+      &#8594; Fight Manectric and die.
 - If you don't see a raid nearby:
-    - &#8594; Walk to Motostoke
-    - &#8594; On your way there, interact with a raid.
+      &#8594; Walk to Motostoke
+      &#8594; On your way there, interact with a raid.
 - Go to the Watts trader left of the stairs to Motostoke and buy as many Quick Balls as you can. (You need a minimum of 3, preferably 4)
 - Continue heading north
 - Get **Mystic Water** and equip.
@@ -159,3 +160,10 @@ When entering the wild area, look out for dens containing raids.
     - X
   :::::
 :::::::
+
+:info[**Free Heal**]{color=pink}
+
+Run Left, dodging all trainers (run past the girl when she faces down), talk to Sonia then fight the schoolkid.
+
+[![Image from Gyazo](https://i.gyazo.com/3ba98e5d0806df38f35b39ccc2e01277.gif)](https://gyazo.com/3ba98e5d0806df38f35b39ccc2e01277)
+
